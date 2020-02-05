@@ -1,2 +1,3 @@
-# tis-100-solutions
- TIS-100 Solution
+# TIS-100 Solution
+s
+Includes Signal Window Filter solution with just 5 nodes.
